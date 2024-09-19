@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Help: My Plants are Attacking Me
 
-Author: (TODO: your name)
+Author: Vishant Raajkumar
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Basically I forgot to water my plants so they're a just little bit angry. They will keep randomly spawning and attacking me unless I fight back.
 
 Screen Shot:
 
@@ -10,6 +10,6 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Press space to start the game. Once the game has started, use WASD to move and shift to attack.
 
 This game was built with [NEST](NEST.md).
